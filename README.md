@@ -1,4 +1,4 @@
-<h1 align="left">Hello there I'm Edgard, a recent Le Wagon graduates</h1>
+<h1 align="left">Hello there I'm Edgard, a recent Le Wagon graduate</h1>
 <h3 align="left">Junior Full-Stack Developer | Enthusiast in Emerging Technologies</h3>
 
 <h3 align="left">My Stack :</h3>
