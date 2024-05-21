@@ -44,7 +44,7 @@ const EdgardRevol = {
   education: "Le Wagon Online, a 9-week full-time intensive coding bootcamp",
   otherAlias: "Junior Full Stack Developer",
   codesIn: ["Ruby", "HTML", "JavaScript", "React", "Vue.js", "CSS", "SCSS", "Tailwind", "SQL"],
-  currentlylearning: ["Python", "Node.js", "Angular"],
+  currentlyLearning: ["Python", "Node.js", "Angular"],
   toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"],
     pastExperience: [
       {
